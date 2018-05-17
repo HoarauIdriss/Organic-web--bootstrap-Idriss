@@ -1,0 +1,37 @@
+/**couleur bleu du H1**/
+span{
+    color: #28bbea;
+} 
+
+/**placement du H1 **/
+
+h1{
+   
+    color: white;
+} 
+
+/** barre de naviguation**/
+.nav{
+    margin-left: 40%;
+    
+} 
+.nav-link{
+    color: white;
+}  
+
+/**HEADER**/
+header{
+    background-image: url("img/home.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1280px;
+    background-position: top;
+} 
+
+/**paragraphe dans le header**/
+#paragraphe{
+    margin-top: 465px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 760px;
+}
